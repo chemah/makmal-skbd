@@ -1,0 +1,1 @@
+// GaleriAktiviti component placeholder
